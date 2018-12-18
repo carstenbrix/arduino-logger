@@ -1,0 +1,11 @@
+{
+    "name": "ArduinoLogger",
+    "version": "0.0.1",
+    "keywords": "logger, arduino",
+    "description": "Arduino Library Wrapping Logger",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/carstenbrix/arduino-logger.git"
+    }
+}
